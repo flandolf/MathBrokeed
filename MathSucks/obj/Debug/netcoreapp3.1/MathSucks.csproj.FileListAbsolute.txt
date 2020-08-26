@@ -1,0 +1,13 @@
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks.deps.json
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks.runtimeconfig.json
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks.runtimeconfig.dev.json
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks.dll
+/home/andrew/RiderProjects/MathSucks/MathSucks/bin/Debug/netcoreapp3.1/MathSucks.pdb
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.csprojAssemblyReference.cache
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.AssemblyInfoInputs.cache
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.AssemblyInfo.cs
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.csproj.CoreCompileInputs.cache
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.dll
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.pdb
+/home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.genruntimeconfig.cache
