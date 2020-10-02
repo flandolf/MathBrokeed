@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/andrew/.dotnet/store/|arch|/|tfm|",
-      "/home/andrew/.nuget/packages"
+      "C:\\Users\\mindl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mindl\\.nuget\\packages"
     ]
   }
 }

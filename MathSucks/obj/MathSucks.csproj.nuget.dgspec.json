@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/andrew/RiderProjects/MathSucks/MathSucks/MathSucks.csproj": {}
+    "C:\\Users\\mindl\\Documents\\Git\\MathBrokeed\\MathSucks\\MathSucks.csproj": {}
   },
   "projects": {
-    "/home/andrew/RiderProjects/MathSucks/MathSucks/MathSucks.csproj": {
+    "C:\\Users\\mindl\\Documents\\Git\\MathBrokeed\\MathSucks\\MathSucks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andrew/RiderProjects/MathSucks/MathSucks/MathSucks.csproj",
+        "projectUniqueName": "C:\\Users\\mindl\\Documents\\Git\\MathBrokeed\\MathSucks\\MathSucks.csproj",
         "projectName": "MathSucks",
-        "projectPath": "/home/andrew/RiderProjects/MathSucks/MathSucks/MathSucks.csproj",
-        "packagesPath": "/home/andrew/.nuget/packages/",
-        "outputPath": "/home/andrew/RiderProjects/MathSucks/MathSucks/obj/",
+        "projectPath": "C:\\Users\\mindl\\Documents\\Git\\MathBrokeed\\MathSucks\\MathSucks.csproj",
+        "packagesPath": "C:\\Users\\mindl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mindl\\Documents\\Git\\MathBrokeed\\MathSucks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andrew/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mindl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

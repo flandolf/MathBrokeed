@@ -11,3 +11,16 @@
 /home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.dll
 /home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.pdb
 /home/andrew/RiderProjects/MathSucks/MathSucks/obj/Debug/netcoreapp3.1/MathSucks.genruntimeconfig.cache
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.exe
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.deps.json
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.runtimeconfig.json
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.runtimeconfig.dev.json
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.dll
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\bin\Debug\netcoreapp3.1\MathSucks.pdb
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.csprojAssemblyReference.cache
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.AssemblyInfoInputs.cache
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.AssemblyInfo.cs
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.csproj.CoreCompileInputs.cache
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.dll
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.pdb
+C:\Users\mindl\Documents\Git\MathBrokeed\MathSucks\obj\Debug\netcoreapp3.1\MathSucks.genruntimeconfig.cache
